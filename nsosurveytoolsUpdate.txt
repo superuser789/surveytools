@@ -1,5 +1,3 @@
-{
-  "versioon": v1.1,
-  "link": 'http://google.com'
+{"ver": v1.1, "link": 'http://google.com'
   "extra": ''
 }
