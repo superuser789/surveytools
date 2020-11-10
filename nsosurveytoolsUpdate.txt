@@ -1,1 +1,1 @@
-{"ver": "1.1", "link": "http://google.com",  "extra": "" }
+{"ver": "1.1", "link": "http://google.com/agrisurveyv1.1.exe",  "extra": "" }
